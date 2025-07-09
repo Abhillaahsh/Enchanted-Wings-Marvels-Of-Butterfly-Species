@@ -1,1 +1,1 @@
-Project in pynd
+Project in ipynd
